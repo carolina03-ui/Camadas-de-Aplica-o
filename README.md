@@ -25,15 +25,4 @@ A API permite as seguintes operações:
 
 Este projeto demonstrou como criar uma API RESTful simples e funcional usando o **FastAPI** para gerenciar tarefas. A API permite realizar operações básicas de CRUD (Create, Read, Update, Delete) e armazena os dados em memória utilizando listas em Python, proporcionando uma implementação prática e rápida para iniciantes.
 
-Gostaria de agradecer por acompanhar o desenvolvimento desta API. Espero que este projeto seja útil para entender os conceitos de construção de APIs e o uso do **FastAPI**. Caso tenha dúvidas ou queira contribuir, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. Fique à vontade para adaptar o código para suas necessidades e explorar mais funcionalidades!
-
-### Agradecimentos
-
-- Agradeço a todos que contribuíram de alguma forma para o crescimento deste projeto.
-- Agradecimentos especiais ao time do FastAPI pela excelente documentação e ferramentas que tornam a criação de APIs rápidas e fáceis.
-
-## Conclusão
-
-Este projeto demonstrou como criar uma API RESTful simples e funcional usando o **FastAPI** para gerenciar tarefas. A API permite realizar operações básicas de CRUD (Create, Read, Update, Delete) e armazena os dados em memória utilizando listas em Python, proporcionando uma implementação prática e rápida para iniciantes.
-
 
